@@ -7,7 +7,8 @@ Enhance your grinding experience with the Vido Grinder – your perfect companio
 - **Small Vido Grinder:** 4999 birr
 - **Big Vido Grinder:** 7900 birr
 
-![Vido Grinder](images/vido_grinder_preview.png)
+![Vido Grinder](photo_2024-01-01_09-20-52.jpg)
+![Vido Grinder](photo_2024-01-01_09-21-00.jpg)
 
 ## Specifications:
 
@@ -29,6 +30,8 @@ Grind your way to the perfect cup with Vido! ☕🌞
 # 2. Makita and Bosch Grinders - Grind with Power! 💪🔧
 
 Explore the world of precision grinding with Makita and Bosch Grinders – the ultimate choice for all your grinding needs! From light-duty to heavy-duty tasks, we've got the power you need. 🔩🌪️
+
+![Makita](photo_2024-01-01_09-21-02.jpg)
 
 ## Models and Prices:
 
@@ -58,8 +61,7 @@ Introducing the Makita Normal Impact Drill, where power meets precision for all 
 - **Reversible:** Yes - for flexibility in use.
 - **Metal Chuck:** Durable and designed for maximum grip.
 
-![Makita Normal Impact Drill](images/makita_impact_drill_preview.png)
-
+![Makita Normal Impact Drill](photo_2024-01-01_09-21-05.jpg)
 ## Pricing:
 
 - **Price:** 3300 birr ✅
@@ -88,7 +90,7 @@ Introducing the Vido Jigsaw, where precision meets power for all your cutting en
   - Wood: 80mm
   - Metal: 8mm
 
-![Vido Jigsaw](images/vido_jigsaw_preview.png)
+![Vido Jigsaw](photo_2024-01-01_09-21-07.jpg)
 
 ## Pricing:
 
